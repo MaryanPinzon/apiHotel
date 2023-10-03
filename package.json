@@ -1,0 +1,19 @@
+{
+  "name": "api_hotel",
+  "version": "1.0.0",
+  "description": "api rest manejo de reservas hotel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "Maryan Pinzón",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
